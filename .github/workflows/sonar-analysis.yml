@@ -1,4 +1,4 @@
-name: Sonar Analysis CLI
+name: Sonar Analysis CLI 
 
 on: ["push"]
 
